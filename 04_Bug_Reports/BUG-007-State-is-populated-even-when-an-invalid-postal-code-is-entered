@@ -23,15 +23,15 @@ High
 ## Steps to Reproduce
 1. Open the registration page.
 2. Select a country.
-3. Enter an invalid postal code (e.g. 18-555).
+3. Enter an invalid postal code (e.g. '18-555').
 4. Enter a valid house number.
 5. Verify the value populated in the State field.
 
 ## Actual Result
 The State field is populated automatically despite the invalid postal code.
 
-Example:
-Postal Code: 18-555
+## Observed
+Postal Code: '18-555'
 Expected: No state should be populated.
 Actual: lubelskie
 
