@@ -1,7 +1,7 @@
 # Password minimum length is inconsistent with UI requirements
 
 ## ID
-BUG-009-REG-PW-009
+BUG-009-REG-PW-0012
 
 ## Environment
 - OS: Windows 10
