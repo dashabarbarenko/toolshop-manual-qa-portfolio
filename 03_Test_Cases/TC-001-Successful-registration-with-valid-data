@@ -21,14 +21,19 @@ High
 ## Test Data
 
 | Field | Value |
-|-------|-------|
-| First Name | Dasha |
-| Last Name | Barbarenka |
-| Date of Birth | 01/01/2000 |
-| House Number | 10 |
+|--------|-------|
+| First Name | John |
+| Last Name | Smith |
+| Date of Birth | 1995-10-10 |
+| Country | Poland |
 | Postal Code | 01-793 |
-| Email | dasha.test123@example.com |
-| Password | Test123! |
+| House Number | 42 |
+| Street | Test Street |
+| City | Warsaw |
+| State | Mazowieckie |
+| Phone | 48794322832 |
+| Email Address | qatest001@gmail.com |
+| Password | na6-2Ns-KRE-6T9 |
 
 ## Steps
 
