@@ -49,3 +49,15 @@ No new user account is created.
 ## Status
 
 Failed
+
+## Notes
+
+Actual Result:
+
+Street, City and State fields were populated automatically after entering an invalid postal code.
+
+Related Bug Reports:
+
+- BUG-005
+- BUG-006
+- BUG-007
